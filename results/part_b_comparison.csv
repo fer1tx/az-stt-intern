@@ -1,0 +1,3 @@
+Model,Avg WER (%),Avg CER (%)
+whisper-small (baza),29.23,9.44
+whisper-small (fine-tuned),52.09,15.37

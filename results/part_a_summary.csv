@@ -1,0 +1,2 @@
+Model,Test samples,Avg WER (%),Avg CER (%)
+openai/whisper-large-v3,126,29.23,9.44

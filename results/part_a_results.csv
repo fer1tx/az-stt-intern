@@ -1,0 +1,127 @@
+idx,reference,predicted,wer,cer
+0,Eşq şeirlərindən əlavə din və təsəvvüf ilə bağlı şeirləri də vardır.,Eşq şəyərlərindən ələvə din və təsəvvüf ilə bağlı şeyləri də vardır.,0.2727272727272727,0.08823529411764706
+1,Orta məktəbi bitirdikdən sonra Ukraynanın Lvov şəhərində hərbi xidmətdə olmuşdur.,Orta məktəbdiyi bitirdikdən sonra Ukraynanın Lübov şəhərində hərbi xidmətdə olmuşdur.,0.2,0.06172839506172839
+2,Hal hazırda Xəzər kanalında prodüser olaraq işinə davam edir.,Hal-hazırda Xəzər kanalında prodüsör olaraq işinə davam edir.,0.3333333333333333,0.03278688524590164
+3,Təpə Antarktidada yerləşən Start burnunun adını daşıyır.,Təpə Antarktidada yerləşən start qurumunun adını daşıyır.,0.2857142857142857,0.07142857142857142
+4,Lənkəran şəhərində dəfn olunub.,Lənkəran şəhərində dəfn olunan,0.25,0.0967741935483871
+5,Onların qalıqlarına Çin və Özbəkistan ərazilərində aşkarlanmışdır.,Onların qalıqlarına Çin və Özbekistan əvəzlərində şkələdikdir.,0.42857142857142855,0.19696969696969696
+6,Ətrafdakı ərazilərlə müqayisədə dumanlı və qar örtüyü olan günlərin sayı daha çoxdur.,Etraftakı ərazilərlə müqayisədə dumanlı və qarq növkü olan günlərin sayı daha çoxdur.,0.25,0.09411764705882353
+7,Yeni Azərbaycan Partiyasının fəal üzvüdür.,Yeni Azərbaycan Partiyasının fəal özüdür.,0.2,0.047619047619047616
+8,Qədim alban tarixinin izləri bu ərazidə bir çox yerlərdə var.,"Hədin Alban tarixinin izləri bir ərzidə, bir çox yerlərə var.",0.5,0.13114754098360656
+9,Kəndin yerində müasir qəsəbənin inşası planlaşdırılırdı.,Kəndin yerində müasir qəsəbənən inşası planlaşdırılırdı.,0.16666666666666666,0.017857142857142856
+10,Sakinlər tarixi abidələrə çox həssaslıqla yanaşırlar.,Takinlər tarixi abidələrə çox əsaslığa yanaşılır.,0.5,0.1320754716981132
+11,Rusiyaya qayıtdıqdan sonra teatr və kino sahəsində çalışmışdır.,Rusiya qayıtlıqdan sonra teatr və kinosanəsində çalışmışdır.,0.5,0.07936507936507936
+12,Papanın xahişini qəbul edən Attila geri döndü.,Qapanın xaişliyini qəbul edən Atilla geri döndü.,0.42857142857142855,0.15217391304347827
+13,İdman həyatı başa çatdıqdan sonra Torpe ailəsini saxlamaq üçün çalışmışdır.,İdmanın həyatı para çatdıqdan sonra torpə ailəsini saxlamaq üçün çalışmışdır.,0.3,0.08
+14,Jurnalistlər hekayələrinin əyləncəli hala gəlməsinə səbəb olan müəyyən bir məsələdə faktlar ata bilərlər.,Jurnalistlər hekayələrinin əyləncəli hala gəlməsinin səbəb olan müəyyən bir məsələdə faktor ata bilərlər.,0.15384615384615385,0.0380952380952381
+15,Onu Ran Min adlı qardaşlığı öldürmüşdü.,Onur Ağam min adı qardaşlığı öldürmüşdü.,0.6666666666666666,0.15384615384615385
+16,Yarada iki əsas dəyişiklik baş verir.,Yarada iki səs dəyişiklik baş verir.,0.16666666666666666,0.05405405405405406
+17,Komsomol gölü yaxınlığında yerləşən mərkəzdən kifayət qədər aralıda yerləşir.,Kamsomol Gölü yaxınlığında yerləşən mərkəzdən kifayət qədər aralı yerləşir.,0.3333333333333333,0.05194805194805195
+18,Film iki seriyadan ibarətdir.,Film 2 seriyadan ibarətdir.,0.25,0.10344827586206896
+19,Bunun səbəbləri müxtəlifdir.,Bunun səbəbləri müxtəlifdir.,0.0,0.0
+20,Bəyazid taxta keçdikdən sonra İshaq Paşanı yenidən sədrəzəm seçdi.,Bəyazid taxta keçdikdən sonra Hisaq Paşanı yenidən sədrəzəm seçdi.,0.1111111111111111,0.045454545454545456
+21,Salar təxəllüsü ilə ruh aləminə uyğun şeirlər yazırdı.,Salar təxəllüsü ilə ruhu aləminə uyğun şeirlər yazırdı.,0.125,0.018518518518518517
+22,Cavabında kazaklar narazı şəxsləri quyuya ataraq öldürdülər.,Cavabında qazaklar narazı şəxsləri quyaya ataraq öldürdülər.,0.2857142857142857,0.03333333333333333
+23,Netflix nədir?,NETFLİXS NƏDƏR?,1.0,0.8571428571428571
+24,Müsabiqədən sonra onu artıq hamı tanımağa başlayır.,Müsabiqədən sonra onu artıq hamı tanımama başlayır.,0.14285714285714285,0.0196078431372549
+25,İnsanlar və heyvanların bitkilərlə zəhərlənməsi müxtəlif səbəblərdən baş verə bilər.,İnsanlar və heyvanların bitkilərlə zəhərlənməsi müxtəlif zəhəblərdən baş verə bilər.,0.1,0.023809523809523808
+26,Həmin il Yaponiya Misirin müstəqilliyini tanımışdır.,Həmin il Yaponiya Misirin müstəqilliyini tanımışdır.,0.0,0.0
+27,Beş uşaq atası idi.,5 uşaq atası idi.,0.25,0.15789473684210525
+28,Film Türkiyə yazıçısı Nazim Hikmətin eyniadlı əsərinin motivləri əsasında yaradılmışdır.,Film Türkiyə yazıcı Nazim Hikmətin Yeni adlı əsərinin motivləri əsasında yaradılmışdır.,0.3,0.06818181818181818
+29,Yuxarı axarlarda bataqlaşmış ərazidən axır və suyu dayaz olur.,Yuxarı axarlarda bataklaşmış ərazidən axır və suyu dayaz olur.,0.1111111111111111,0.016129032258064516
+30,Ölkə ərazisindən axan Niger çayının adı ilə adlanır.,Ölçə ərazisində axan Niger tayının adı ilə adlanır.,0.375,0.057692307692307696
+31,Elə orta məktəbi də həmin kənddə bitirib.,Elə orta məktəbi də həmin kənddən bitirib.,0.14285714285714285,0.024390243902439025
+32,Daha sonra həmin məktəbin direktoru olur.,Daha sonra həmin məktəbin direktoru olur.,0.0,0.0
+33,Atası qızına mükəmməl təhsil vermək arzusunda idi.,Atası qızına mükəmmil təhsil vermək arzusundaydı.,0.42857142857142855,0.08
+34,Turizm qoruq ətrafındakı bütün ərazilərin inkişafının əsas sahəsidir.,Turizm qoruq ətrafındakı bütün ərazilər inkişafının əsas sahəsidir.,0.125,0.028985507246376812
+35,Hər yeddi ildən bir keçirilir.,Hər yet deyildən bir çətirilir.,0.6,0.23333333333333334
+36,Qrup artıq fəaliyyətini dayandırmışdır.,Qrup artıq fəaliyyətini dayandırmışdır.,0.0,0.0
+37,İyunun əvvəlində çiçəkləyir.,İyinin əvvəlində çiçəkləyiz.,0.6666666666666666,0.10714285714285714
+38,Bundan sonra isə körpü bərpa edilməmişdir.,Bundan sonra isə çörpü bərpa edilməmişdir.,0.16666666666666666,0.023809523809523808
+39,Dinozavrlar arasında ən uzun boyuna malik imiş.,Dinozaverlar arasında ən uzun boyuna malik imiş.,0.14285714285714285,0.02127659574468085
+40,Qurultayda Azərbaycanın bütün bölgələrini və tədris müəssisələrini təmsil edən nümayəndələr iştirak edirdilər.,Qurultayda Azərbaycanın bütün bölgələrini və tədris məhsələrini təmsil edən nümayənlər iştirak edirdilər.,0.16666666666666666,0.05454545454545454
+41,Ölkə müsabiqədə iştirak etdiyi illər ərzində heç vaxt qalib olmamışdır.,Ölkə müsəvqiyyədə iştirak etdiyi illər ərsində heç vaxt qalib olmamışdır.,0.2,0.08450704225352113
+42,Ortada qalan meydançanın iki tərəfini tağlar və onların arxasında yerləşən otaqlar təşkil edir.,Ortada qalan meydançanın iki tərəfini tağlar və onların arasında yerləşən otaqlar təşkil edir.,0.07692307692307693,0.010526315789473684
+43,Dəmirçilər Tərtər rayonunun eyniadlı inzibati ərazi vahidində kənd.,Dəmirçilər Tərtər rayonunun eynadlı inzibati ərazi vahidində kənd.,0.125,0.014925373134328358
+44,Mağaraların girəcəyində aşkar edilmiş mədəni təbəqə qalıqları onların qədim insan məskənləri olduğunu göstərir.,Mağaraların girəcəyində aşikar edilmiş mədəni təbəqə qalıqları onların qədim insan məskənləri olduğunu göstərir.,0.07692307692307693,0.009009009009009009
+45,İlk işi Şabran şəhərini ələ keçirmək oldu.,İlk kişi Şabran şəhəri nələ keçirmək oldu?,0.5714285714285714,0.11904761904761904
+46,Əli Amir uşaq yaşlarında ailəsi ilə birlikdə İsrailə köç edib.,Ali Amir uşaq yaşlarında ailəsi ilə birlikdə İsrailə köç edib.,0.1,0.016129032258064516
+47,Kanalda İngilis və İspan dillərdə proqramlar nümayiş olunur.,Kanalda ingilis və ispan dillərdə proqramlar nümayəş olunur.,0.375,0.05
+48,Təhsilini davam etdirmək istəsə də mümkün olmayıb.,Təhsilini davam etdirmək istəsə də mümkün olmayıb.,0.0,0.0
+49,Cənubi Koreyada.,Cənubi Qurayada,0.5,0.25
+50,Müxtəlif illərdə fərqli sahələrdə iş fəaliyyətinə başlayır.,Müxtəlif illərdə fərqli sahələrdə iş fəaliyyətinə başlayır.,0.0,0.0
+51,Kolbasa tam və ya doğranmış şəkildə servis edilir.,Qalbasa tam və ya doğranmış şəkildə servis edilir.,0.125,0.04
+52,Çar ordusunda zabit kimi xidmət etmişdi.,Çar ordusunda zabit kimi xidmət etmişdi.,0.0,0.0
+53,Adada göl yoxdur.,Adada göl yoxdur.,0.0,0.0
+54,Bayraq mərasimi himnin sonu və cavabdeh müəllimin əmri ilə başa çatır.,Bayraq mərasimi himinin sonu və səvabdik müəllimin əmri ilə başa çatır.,0.18181818181818182,0.07142857142857142
+55,Orta əsrlərdə geniş yayılmış bu oyun klassik ədəbiyyatımızın nümunələrindən də bəllidir.,Orta əsrlərdə geniş yayılmış bu oyun klasik ədəbiyyatımızın nümunələrindən də bəllidir.,0.09090909090909091,0.011363636363636364
+56,"İngiltərədə nəşr edilmiş bu ""Divan""da məhəbbət lirikası üstünlük təşkil edirdi.",İngiltərədən əşr edilmiş bu divanda məhəbbət lirikası üstünlük təşkil edirdi.,0.3,0.06329113924050633
+57,Gürcüstan hökumət qüvvələri tez bir zamanda Abxaziyanın böyük bir hissəsinə nəzarəti bərpa etdi.,Gürcistan hökumət qüvvələri tez bir zamanda Abxaziyanın böyük bir hissəsində nəzarəti bərpa etdi.,0.15384615384615385,0.020833333333333332
+58,"Bundan başqa Xızır Nəbi ""Aşıq Qərib"" dastanının Azərbaycan versiyasının qəhrəmanıdır.",Bundan başqa Xızır nəbi Aşıq Qəribdastanın Azərbaycan versiyasının qəhrəmanıdır.,0.4,0.07058823529411765
+59,Hindistanla Rusiya arasındakı strateji tərəfdaşlıq beş sahəni əhatə edir.,İndistanla Rusiya arasında strategi tərəfdaşlıq 5 sahəni əhatə edir.,0.4444444444444444,0.1095890410958904
+60,Qəsəbə adını oradakı eyniadlı çayın adından almışdır.,Qəsəbə adını oradakı eynadlı çayın adından almışdır.,0.14285714285714285,0.018867924528301886
+61,Lena çayın sağ sahilində yerləşir.,Lena Çənsal sahilində yerləşir.,0.4,0.17647058823529413
+62,Ağstafa rayonunun Muğanlı kəndində dəfn olunub.,Axtafar ayınının Uğanlı kəndində dəfn olunub.,0.5,0.19148936170212766
+63,Bir oğul övladı var.,Piroqlu vladovar,1.0,0.45
+64,Əsasən qar suları və yeraltı sularla qidalanır.,Qar suları və yer altı sularla qida alır.,0.8571428571428571,0.23404255319148937
+65,Humanizm tərəfdarı deyildi.,Humanizm tərəfdarı deyildi.,0.0,0.0
+66,Əsasən dağlıq ərazidir.,Asasən dağlıq ərazidir.,0.3333333333333333,0.043478260869565216
+67,İmişli şəhərində dəfn olunub.,İmişli şəhərində dəfn olunub.,0.0,0.0
+68,Həmin dövrdən indiyədək Heydər Əliyev adına Saraya ləyaqətlə rəhbərlik edir.,"Həmin dövrdən indiyana dək, Heydar Ali Vadnaz Saraya ləyəqətlə rəhbərliyidir.",0.8,0.2236842105263158
+69,Hər iki xəstəliyi aradan qaldıra bildi.,Hər iki xəstəliyi aradan qaldıra bildi.,0.0,0.0
+70,Şəhər alim və ixtiraçı Nikola Teslanın doğulduğu yerdir.,Şəhər alim və ixtiratlı Nikola Tesla-nın doğulduğu yerdir.,0.25,0.05357142857142857
+71,Və Braziliyanın ən böyük futbol klublarından biri hesab olunur.,və Braziliyanın ən böyük futbol klublarından biri hesab olunur.,0.1111111111111111,0.015873015873015872
+72,Hazırda xarabalıqları qalır.,Hazırda xarabalıqlar qalır.,0.3333333333333333,0.03571428571428571
+73,Daun sindromu ilə doğulan uşaqlarla erkən məşğul olmaq lazımdır.,Down sindromu ilə doğulan şəxslərlə erkən məşğul olmaq lazımdır.,0.2222222222222222,0.125
+74,Salyan rayonunun Sarvan inzibati ərazi vahidində kənd.,Salyan rayonunun Sarvan İncibati ərazi vahidindəkəndir.,0.42857142857142855,0.09259259259259259
+75,Şaxtalı aylarda sahil ərazilər donur.,Şəxtalı aylarda sahil ərazilər donur.,0.2,0.02702702702702703
+76,Siyasi mövzularda bir neçə kitabın müəllifidir.,Siyasi mövzularda bir neçə kitabın müəlliflidir.,0.16666666666666666,0.02127659574468085
+77,İon kristallarda meydana gəlir.,İon qırıstallarda meydana gəlir.,0.25,0.0967741935483871
+78,Göl Balıqçılıq üçün əlverişlidir.,Göv balıqçılığı üçün əlverişlidir.,0.5,0.12121212121212122
+79,Şuşada doktor Mirzə Hüseyn bəy kimi tanınırdı.,Şüşada doktor Mərdə Hüseyn bəy kimi tanınırdı?,0.42857142857142855,0.08695652173913043
+80,Bir müddət kikboksinq və futbol ilə məşğul oldu.,"Bir mərdəd ki, bossinginq və futbol ilə məşğul oldu.",0.375,0.1875
+81,Uzun qara geyimləri və quru bir atı vardır.,Uzun qara qeymləri və quru bir adı vardır.,0.25,0.06976744186046512
+82,Bütün işlər barışıq hakimi tərəfindən təkbaşına həll edilirdi.,Bütün müşriqlər qarışıq. Hakimi tərəfindən tək başına hələ dilirdi.,0.875,0.1774193548387097
+83,Komanda yoldaşları bunun Oliverin mübarizə aparmaq üsulu olduğunu düşünürlər.,Qomanda yoldaşları bunun oluverim və bazarı abarmaq usulü olduğunu düşünürlər.,0.6666666666666666,0.18181818181818182
+84,Nuri bəy bu ilk cəhdindən böyük qazanc əldə etdi.,Nuru bəy bu ilk cəhətindən böyük qazanc əldə etdir.,0.3333333333333333,0.08163265306122448
+85,Qurdlar camaatının bir tirəsinin adı idi.,Qurlar cəmatın bir tərəfsinin adı idi.,0.5,0.17073170731707318
+86,Saray kompleksi İran Mədəni İrs Təşkilatı tərəfindən idarə olunur.,Saray kompleksi İran Mədəni İFS təşkilatı tərəfindən idarə olunur.,0.2222222222222222,0.045454545454545456
+87,Vətən müharibəsi başlayır.,Vətən müharibəsi başlayır.,0.0,0.0
+88,Virus qaraciyərdə və qanda tapılar.,Virus qara ciyərdə və qanda taplar.,0.6,0.05714285714285714
+89,Ərazisində çöl bitkiləri üstünlük təşkil edir.,İRACİSİNDƏ ÇÖL BİTKİLƏRİ ÜSTÜNLÜK TƏŞKİL EDİR,1.0,0.8913043478260869
+90,Hərbi xidmətini başa vurduqdan sonra Abbasov Mingəçevir şəhərində elektrik quraşdırma idarəsində çalışıb.,Hərbi xidmətini başa vurduqdan sonra Abbasov Mingəçəvir şəhərində elektrik quraşdırma idarəsində çalışıb.,0.08333333333333333,0.009523809523809525
+91,Günəş Yerə ən yaxın ulduzdur.,Günəş yerə ən yaxın ulduzdur.,0.2,0.034482758620689655
+92,Elşən Salayev Vətən Müharibəsində qəhrəmancasına şəhid olmuşdur.,Enşən Salayev mətən müharibəsində qəhrəmancasına şəhəd olmuşdur.,0.5714285714285714,0.0625
+93,Quyruğu qısa olur.,Qoyuruxu qısa olur.,0.3333333333333333,0.16666666666666666
+94,Mahmud ailənin yeganə oğul övladı olmuşdur.,Mahmud ailənin yeganə oğul evladı olmuşdur.,0.16666666666666666,0.023255813953488372
+95,Kənd təsərrüfatı ərazilərinin boz meşə və açıq boz torpaqlar təşkil edir.,Kənd təsarrufatı ərazilərinin boz məşəqə açıq topraqlar təşkil edir.,0.45454545454545453,0.1506849315068493
+96,Bunlara ilk növbədə təbii şəraitdə baş verən proseslər üzərində fasiləsiz müşahidələrin aparılması aiddir.,Bunlara ilk növbədə təbii şəraitdə baş verən proseslər üzərində fəsidəsiz müşahidələrin aparılması aiddir.,0.07692307692307693,0.018867924528301886
+97,İndi həmin qədim yolla dəmir yolu xətti çəkilmişdir.,İndi həmin qədim yolla dəmir yolu xətti çəkilmişdir.,0.0,0.0
+98,Böyük İskəndərin çatdığı ən son bölgə olduğu təxmin edilir.,Böyük İskəndərin çatdığı ən son bölcə olduğu təqmin edilir.,0.2222222222222222,0.03389830508474576
+99,İlk boyu şaxta müşahidə edilir.,İl boyu şaxta müşahidə edilir.,0.2,0.03225806451612903
+100,Qalaktika topaları qalaktikalar daxilindəki ulduz quruluşları olan ulduz topaları ilə qarışdırılmamalıdır.,Qalaktika topları qalaktikalar daxilindəki ulduz quruşları olan ulduz topaları ilə qarışdırılmamalıdır.,0.18181818181818182,0.02830188679245283
+101,Avropanın ticarətlə məşğul olan dairələri Yaxın Şərqdəki mühüm strateji məntəqələri əldə etməkdə maraqlı idilər.,Avropanın ticərəklə məşğul olan dairələri yaxın şərtdəki mühüm strategi məntiqələri əldə etməkdə maraqlı bilirlər.,0.42857142857142855,0.08928571428571429
+102,Bir neçə il sonra ölkəsinə geri dönməsinə icazə verildi.,Bir neçə il sonra ölkəsinə geri dönməsinə icazə verildi.,0.0,0.0
+103,Kəndin adı onun coğrafi mövqeyini əks etdirir.,Kəndin adı onun coğrafi növbəyini əks etdirir.,0.14285714285714285,0.06521739130434782
+104,London işçi ailəsindən gəlirdi.,London işçi ailəsindən gəlirdi.,0.0,0.0
+105,Hər ikisi sağda olan alay geri çəkilməyə başladı.,Hər ikisi sağda olan halay geri çəkilməyə başladı.,0.125,0.02040816326530612
+106,Öz zəhməti ilə Fransızca öyrəndi.,Öz zəhməti ilə Fransızı öyrəndi.,0.2,0.06060606060606061
+107,Atası Qustav oğlunu futbolçu kimi görmək istəyirdi.,Atası Kustaba oğlunu vıtbolcu kimi görünəşdəyirdi.,0.5714285714285714,0.2549019607843137
+108,Şəhərin mərkəzi hissəsi Perl çayının sağ sahilində yerləşir.,Şəhərin mərkəzi hissəsi Perilçayının sax sayında yerləşir.,0.5,0.13333333333333333
+109,Buna görə rayonu bir neçə hissəyə bölmək məcburi olmuşdu.,Buna görə rayonu bir neçə hiss etmək məcburi olmuşdur.,0.3333333333333333,0.12280701754385964
+110,Bu teatrın əsas vəzifəsi fəhlələr və kasıblar arasında bolşevik təbliğatı aparmaq olmuşdur.,Bu teatrın əsas vədifəsiz təhqirlər və kəsiklər arasında bol şey bir təbriqat aparmaq olmuşdur.,0.5833333333333334,0.1978021978021978
+111,Təlim mərkəzlərindən birinə edilən sirli hücumun ardından iki ən yaxşı döyüşçü tədqiqata başlayır.,Təlim mərkəzlərindən birinə edilən sirli hücumun ardından iki ən yaxşı döyücüsü tədqiqata başlayır.,0.07692307692307693,0.030612244897959183
+112,Orta təhsilini Ağdam rayonunda alıb.,Orta təhsilini Ağdam rayonunda alıb.,0.0,0.0
+113,Estetik mənada konkret təbiət gözəllikləri ümumən yenə gözəl bir qadınla birlikdə təqdim edilir.,Estetik manada konkret təbiət gözəllikləri ümumiyyən yenə gözəl bir qadınla birlikdə təqdim edilir.,0.15384615384615385,0.041666666666666664
+114,Strabon özünün məşhur Tarix əsərində də Abxaziya ərazisi və orada yaşayan xalqlar barədə yazmışdı.,Starbun özünün məşhur tarix əsərində Avqazi ərazisi və orada yaşayan haqqlar barədə yazmışdı.,0.35714285714285715,0.1326530612244898
+115,Sovet mədəniyyət və incəsənət nümayəndə heyətinin tərkibində Amerika və Afrika ölkələrində olmuşdur.,Soveti mədəniyyət və indisənət müəyyən dəhəyətinin tərkibində Amerika və Afrika ölkələrində olunmuşdu.,0.4166666666666667,0.12
+116,Diplomunu aldığı zaman casusluq vəzifəsinin hissəsi olan bir əmr altında Moskvanı tərk etdi.,Diplomunu aldığı zaman casusluq vəzifəsinin hissəsi olan bir əmr altında Moskvanı tərk etdi.,0.0,0.0
+117,Alimin rəhbərliyi ilə onlarla elmlər namizədi hazırlanmışdır.,Ademin rəhbərliyi ilə onlarla filmlər namizədə hazırlanmışdır.,0.42857142857142855,0.08196721311475409
+118,Körpünün yerləşdiyi Qarabağ məhəlləsi Zəngəzur mahalından qaçıb bura gələnlərin adı ilə adlanıb.,Köprünün yerləşdiyi qarabağ məhəlləsi Zəncüzül Mahallından qaçıb bura gələnlərin adı ilə adlanıb.,0.3333333333333333,0.09375
+119,Çimərlik ərazidə Kanadanın ən uzun hovuzu yerləşir.,İtimadik ərazidə Kanadanın ən uzun provuzu yerləşir.,0.2857142857142857,0.13725490196078433
+120,Çünki o yoxdur.,Çünki o yoxdur.,0.0,0.0
+121,Bəzi televiziya sənədli filmlərinin məsləhətçisi idi.,Bəzi televiziya sənətli filmlərinin məsləhətçisidir.,0.5,0.07547169811320754
+122,Göldə mülayim iqlim şəraiti hökm sürür.,GÖLDÜM LÖYÜM İGLİM ŞƏRƏTİ HÜKÜMSÜRÜŞÜM,1.0,0.9230769230769231
+123,Goranboy rayonu Fəxralı kənd tam orta məktəbi şəhid Teymur Sadıqovun adını daşıyır.,Göranboylayanı Fəxralı kənd təmətə məktəbi Şəhid Teymur Salıqovun adına daşıyır.,0.5833333333333334,0.1566265060240964
+124,Rəhbərlik öz siyasətində və iqtisadiyyatında dəyişikliklər tələb etdi.,Rəhbərlik öz siyasətində və iqtisadətində dəyişikliklər talab etdi.,0.25,0.11428571428571428
+125,Sadalanan üsullardan savayı ermənilər Vaşinqtonda təsir qrupları da yaratmağa nail olurlar.,Sadalanan üsullardan savayı ermənilər başqa təsir qrupları yaratmağa nail olurlar.,0.18181818181818182,0.10989010989010989
